@@ -6,7 +6,7 @@ public class Day1_ {
 
     public static void main(String[] args) throws ArrayStoreException {
         int[][] arr = {{1,5},{7,3},{3,5}};
-//        System.out.println(richest(arr));
+        System.out.println(richest(arr));
 
         int[][] grid = {{9,9,8,1},{5,6,2,6},{8,2,6,4},{6,2,2,2}};
         System.out.println(largestlocal(grid));
